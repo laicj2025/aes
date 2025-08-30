@@ -2,3 +2,4 @@
 aesni/target/
 target/
 Cargo.lock
+.idea
